@@ -20,7 +20,7 @@ const Home = () => {
 
   return (
     <SafeAreaView style={[backgroundStyle, styles.sectionContainer]}>
-      <Text style={styles.sectionTitle}>Template</Text>
+      <Text style={styles.sectionTitle}>Template2</Text>
     </SafeAreaView>
   );
 };
